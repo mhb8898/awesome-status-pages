@@ -1,3 +1,4 @@
+# Refreshes GitHub star counts for the Opensource section every week.
 name: Update stars
 
 on:
