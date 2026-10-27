@@ -12,7 +12,7 @@
   url: https://cachethq.io/
   repo: cachethq/cachet
   description: Laravel based status page system for everyone. [3.x coming soon](https://github.com/cachethq/cachet/discussions/4342).
-  stars: 15261
+  stars: 15259
 - name: Checkmate
   url: https://github.com/bluewave-labs/Checkmate
   repo: bluewave-labs/Checkmate
@@ -33,7 +33,7 @@
   repo: jayfk/statuspage
   description: null
   discontinued: true
-  stars: 3871
+  stars: 3870
 - name: cState
   url: https://github.com/cstate/cstate
   repo: cstate/cstate
@@ -58,7 +58,7 @@
   url: https://github.com/TwiN/gatus
   repo: TwiN/gatus
   description: Automated service health dashboard
-  stars: 12422
+  stars: 12423
 - name: GitHub Status Page
   url: https://github.com/Bullrich/Status-Page
   repo: Bullrich/Status-Page
@@ -94,7 +94,7 @@
   repo: ks888/LambStatus
   description: null
   discontinued: true
-  stars: 1286
+  stars: 1285
   archived: true
 - name: Monitoror
   url: https://monitoror.com/
@@ -212,7 +212,7 @@
   url: https://github.com/upptime/upptime
   repo: upptime/upptime
   description: monitor and status page powered by GitHub
-  stars: 17185
+  stars: 17184
 - name: Uptimon
   url: https://github.com/RatherLogical/Uptimon
   repo: RatherLogical/Uptimon
@@ -222,7 +222,7 @@
   url: https://github.com/louislam/uptime-kuma
   repo: louislam/uptime-kuma
   description: A self-hosted monitoring tool like "Uptime Robot".
-  stars: 92992
+  stars: 92995
 - name: Uptimepage
   url: https://uptimepage.dev
   repo: uptimepage/uptimepage
@@ -237,7 +237,7 @@
   url: https://github.com/valeriansaliou/vigil
   repo: valeriansaliou/vigil
   description: Microservices Status Page. Monitors a distributed infrastructure and sends alerts (Slack, SMS, etc.).
-  stars: 1950
+  stars: 1949
 - name: WM Website Status
   url: https://gitlab.com/WEB-Manufaktur/website-status-php-script
   repo: null
@@ -251,7 +251,7 @@
   url: https://github.com/lyc8503/UptimeFlare
   repo: lyc8503/UptimeFlare
   description: Another monitoring & status page completely powered by Cloudflare Workers & Pages.
-  stars: 3911
+  stars: 3912
 - name: Kener
   url: https://kener.ing/
   repo: rajnandan1/kener
@@ -266,7 +266,7 @@
   url: https://github.com/kubestellar/console
   repo: kubestellar/console
   description: Multi-cluster Kubernetes management console with built-in cluster health dashboards; provides real-time status monitoring across cloud and edge Kubernetes deployments.
-  stars: 151
+  stars: 152
 - name: upbeat
   url: https://github.com/Jubstaaa/upbeat
   repo: Jubstaaa/upbeat
