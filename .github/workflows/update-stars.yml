@@ -1,4 +1,5 @@
-# Refreshes GitHub star counts for the Opensource section every week.
+# Refreshes GitHub star counts for the Opensource section every week,
+# then rebuilds and deploys the GitHub Pages site.
 name: Update stars
 
 on:
@@ -7,10 +8,11 @@ on:
   workflow_dispatch:
   push:
     branches: [master]
-    paths: [data/opensource.yml, scripts/update_stars.py]
 
 permissions:
   contents: write
+  pages: write
+  id-token: write
 
 concurrency:
   group: update-stars
@@ -40,3 +42,26 @@ jobs:
             git commit -m "chore: update GitHub stars"
             git push
           fi
+
+  deploy:
+    needs: update
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          ref: master
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+      - run: pip install pyyaml
+      - name: Build site
+        run: python3 scripts/build_site.py
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v4
+        with:
+          path: site
+      - id: deployment
+        uses: actions/deploy-pages@v4
