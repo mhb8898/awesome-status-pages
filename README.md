@@ -27,16 +27,16 @@ If this list helps you, please give it a ⭐ — it helps others find it.
 Free, open source status page and uptime monitoring tools you can self-host — alternatives to Statuspage.io, ranked by GitHub stars.
 
 <!-- opensource:start -->
-*Sorted by GitHub stars — last updated 2026-10-27.*
+*Sorted by GitHub stars — last updated 2026-11-01.*
 
-* `⭐ 93k` [Uptime-Kuma](https://github.com/louislam/uptime-kuma) - A self-hosted monitoring tool like "Uptime Robot".
+* `⭐ 93.1k` [Uptime-Kuma](https://github.com/louislam/uptime-kuma) - A self-hosted monitoring tool like "Uptime Robot".
 * `⭐ 17.2k` [Upptime](https://github.com/upptime/upptime) - monitor and status page powered by GitHub
 * `⭐ 15.3k` [Cachet](https://cachethq.io/) ([source](https://github.com/cachethq/cachet)) - Laravel based status page system for everyone. [3.x coming soon](https://github.com/cachethq/cachet/discussions/4342).
-* `⭐ 12.4k` [Gatus](https://github.com/TwiN/gatus) - Automated service health dashboard
+* `⭐ 12.5k` [Gatus](https://github.com/TwiN/gatus) - Automated service health dashboard
 * `⭐ 11k` [Checkmate](https://github.com/bluewave-labs/Checkmate) - (previously "BlueWave Uptime") Checkmate is an open-source, self-hosted monitoring tool built with React.js, Node.js, and MongoDB, designed to track server uptime, response times, and incidents in real-time, featuring a modern UI. Additionally, Checkmate supports E-mail, Webhook, Discord and Slack notifications and has a multi-language frontend.
 * `⭐ 9.2k` [OpenStatus](https://www.openstatus.dev) ([source](https://github.com/openstatusHQ/openstatus)) - Opensource uptime monitoring with status pages with hosted service
 * `⭐ 7.8k` [OneUptime](https://oneuptime.com/product/status-page) ([source](https://github.com/OneUptime/oneuptime)) - OneUptime public and private status pages
-* `⭐ 7.4k` [HertzBeat](https://github.com/dromara/hertzbeat) - An open source, real-time monitoring system with agentless, cluster, prometheus-compatible, custom and status page.
+* `⭐ 7.5k` [HertzBeat](https://github.com/dromara/hertzbeat) - An open source, real-time monitoring system with agentless, cluster, prometheus-compatible, custom and status page.
 * `⭐ 5.2k` [Kener](https://kener.ing/) ([source](https://github.com/rajnandan1/kener)) - A SvelteKit + Node.js status page with incident management.
 * `⭐ 4.4k` [Monitoror](https://monitoror.com/) ([source](https://github.com/monitoror/monitoror)) - monitoring wallboard
 * `⭐ 3.9k` [UptimeFlare](https://github.com/lyc8503/UptimeFlare) - Another monitoring & status page completely powered by Cloudflare Workers & Pages.
@@ -49,10 +49,10 @@ Free, open source status page and uptime monitoring tools you can self-host — 
 * `⭐ 1.6k` [StatusOK](https://github.com/sanathp/statusok)
 * `⭐ 1.2k` [Peekaping](https://github.com/0xfurai/peekaping) - A self-hosted uptime monitoring with real-time dashboard, multi-channel notifications, status pages, and analytics.
 * `⭐ 768` [Statsig's Status Page](https://github.com/statsig-io/statuspage) - A simple, pure html/js, zero-dependency status page powered by GitHub Pages and Actions.
-* `⭐ 732` [Static status](https://github.com/Cyclenerd/static_status) - Bash script to generate a static status page
+* `⭐ 731` [Static status](https://github.com/Cyclenerd/static_status) - Bash script to generate a static status page
 * `⭐ 515` [Tinystatus](https://github.com/bderenzo/tinystatus) - A tiny static status page generator (written in pure shell)
 * `⭐ 481` [health_check](https://github.com/ianheggie/health_check) - Simple health check of Rails app for use with uptime checking sites like newrelic and pingdom
-* `⭐ 429` [Issue Status](https://github.com/tadhglewis/issue-status) - Simple, modern and flexible status page
+* `⭐ 430` [Issue Status](https://github.com/tadhglewis/issue-status) - Simple, modern and flexible status page
 * `⭐ 407` [Server-Status](https://github.com/Pryx/server-status)
 * `⭐ 282` [Fettle](https://github.com/mehatab/fettle) - An open-source, GitHub-powered status page project utilizing GitHub Pages, Actions, and Issues for real-time updates and incident management.
 * `⭐ 280` [dish](https://github.com/savla-dev/savla-dish) - Simple and fast socket checker written in Go, can be integrated with a Telegram bot
@@ -63,9 +63,9 @@ Free, open source status page and uptime monitoring tools you can self-host — 
 * `⭐ 110` [Statusimo](https://github.com/EvotecIT/Statusimo) - A PowerShell module that is able to generate a status page entirely from PowerShell.
 * `⭐ 106` [status-page](https://github.com/rails-engine/status-page) - Mountable status page for your Rails application, to check Cache, Redis, Sidekiq
 * `⭐ 73` [Statusphere](https://github.com/metoro-io/statusphere) - Api-first status page aggregator
-* `⭐ 63` [aPulse](https://github.com/ybouane/aPulse) - A One-File Nodejs Server Status Monitoring Tool.
+* `⭐ 64` [aPulse](https://github.com/ybouane/aPulse) - A One-File Nodejs Server Status Monitoring Tool.
 * `⭐ 54` [django-statusboard](https://github.com/edigiacomo/django-statusboard) - Django status page application with browser and REST interface.
-* `⭐ 49` [Uptimepage](https://uptimepage.dev) ([source](https://github.com/uptimepage/uptimepage)) - Rust-based self-hosted monitoring and public status pages. Auto-opened incidents and IaC via Terraform, REST API and MCP.
+* `⭐ 50` [Uptimepage](https://uptimepage.dev) ([source](https://github.com/uptimepage/uptimepage)) - Rust-based self-hosted monitoring and public status pages. Auto-opened incidents and IaC via Terraform, REST API and MCP.
 * `⭐ 39` [YASP](https://yasp.io) ([source](https://github.com/Hostzero-GmbH/yet-another-status-page)) - Yet Another Status Page based on Next.JS and Payload CMS. SMTP and Twilio integrations. One-click hostable on Vercel.
 * `⭐ 32` [AIWatch](https://github.com/bentleypark/aiwatch) - Open-source dashboard for monitoring third-party AI services (31 services including Claude, OpenAI, Gemini, Mistral, Groq) with reliability scoring, incident analysis, and Discord/Slack alerts. Built on Cloudflare Workers + KV. Live demo at https://ai-watch.dev. AGPL-3.0.
 * `⭐ 31` [GitHub Status Page](https://github.com/Bullrich/Status-Page) - GitHub powered status page utilizing GitHub Actions to fetch metrics, issues to generate report incidents and GitHub pages for hosting.
