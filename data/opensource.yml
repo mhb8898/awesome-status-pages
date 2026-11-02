@@ -12,7 +12,7 @@
   url: https://cachethq.io/
   repo: cachethq/cachet
   description: Laravel based status page system for everyone. [3.x coming soon](https://github.com/cachethq/cachet/discussions/4342).
-  stars: 15261
+  stars: 15262
 - name: Checkmate
   url: https://github.com/bluewave-labs/Checkmate
   repo: bluewave-labs/Checkmate
@@ -58,7 +58,7 @@
   url: https://github.com/TwiN/gatus
   repo: TwiN/gatus
   description: Automated service health dashboard
-  stars: 12458
+  stars: 12473
 - name: GitHub Status Page
   url: https://github.com/Bullrich/Status-Page
   repo: Bullrich/Status-Page
@@ -78,7 +78,7 @@
   url: https://github.com/dromara/hertzbeat
   repo: apache/hertzbeat
   description: An open source, real-time monitoring system with agentless, cluster, prometheus-compatible, custom and status page.
-  stars: 7451
+  stars: 7452
 - name: Issue Status
   url: https://github.com/tadhglewis/issue-status
   repo: tadhglewis/issue-status
@@ -94,13 +94,13 @@
   repo: ks888/LambStatus
   description: null
   discontinued: true
-  stars: 1284
+  stars: 1283
   archived: true
 - name: Monitoror
   url: https://monitoror.com/
   repo: monitoror/monitoror
   description: monitoring wallboard
-  stars: 4392
+  stars: 4393
 - name: MOSSboard
   url: https://github.com/lanbugs/mossboard
   repo: lanbugs/mossboard
@@ -115,12 +115,12 @@
   url: https://oneuptime.com/product/status-page
   repo: OneUptime/oneuptime
   description: OneUptime public and private status pages
-  stars: 7773
+  stars: 7780
 - name: OpenStatus
   url: https://www.openstatus.dev
   repo: openstatusHQ/openstatus
   description: Opensource uptime monitoring with status pages with hosted service
-  stars: 9243
+  stars: 9242
 - name: Pagetron
   url: https://github.com/agrrh/pagetron
   repo: agrrh/pagetron
@@ -158,13 +158,13 @@
   repo: juliomrqz/statusfy
   description: null
   discontinued: true
-  stars: 2622
+  stars: 2621
   archived: true
 - name: StatusOK
   url: https://github.com/sanathp/statusok
   repo: sanathp/statusok
   description: null
-  stars: 1641
+  stars: 1640
 - name: Statusphere
   url: https://github.com/metoro-io/statusphere
   repo: metoro-io/statusphere
@@ -212,7 +212,7 @@
   url: https://github.com/upptime/upptime
   repo: upptime/upptime
   description: monitor and status page powered by GitHub
-  stars: 17190
+  stars: 17196
 - name: Uptimon
   url: https://github.com/RatherLogical/Uptimon
   repo: RatherLogical/Uptimon
@@ -222,7 +222,7 @@
   url: https://github.com/louislam/uptime-kuma
   repo: louislam/uptime-kuma
   description: A self-hosted monitoring tool like "Uptime Robot".
-  stars: 93126
+  stars: 93175
 - name: Uptimepage
   url: https://uptimepage.dev
   repo: uptimepage/uptimepage
@@ -232,7 +232,7 @@
   url: https://github.com/0xfurai/peekaping
   repo: 0xfurai/peekaping
   description: A self-hosted uptime monitoring with real-time dashboard, multi-channel notifications, status pages, and analytics.
-  stars: 1208
+  stars: 1210
 - name: Vigil
   url: https://github.com/valeriansaliou/vigil
   repo: valeriansaliou/vigil
@@ -246,17 +246,17 @@
   url: https://github.com/eidam/cf-workers-status-page
   repo: eidam/cf-workers-status-page
   description: Cloudflare Workers (completely on the edge) powered monitoring & status page.
-  stars: 2812
+  stars: 2813
 - name: UptimeFlare
   url: https://github.com/lyc8503/UptimeFlare
   repo: lyc8503/UptimeFlare
   description: Another monitoring & status page completely powered by Cloudflare Workers & Pages.
-  stars: 3916
+  stars: 3920
 - name: Kener
   url: https://kener.ing/
   repo: rajnandan1/kener
   description: A SvelteKit + Node.js status page with incident management.
-  stars: 5234
+  stars: 5236
 - name: YASP
   url: https://yasp.io
   repo: Hostzero-GmbH/yet-another-status-page

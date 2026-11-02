@@ -27,9 +27,9 @@ If this list helps you, please give it a ⭐ — it helps others find it.
 Free, open source status page and uptime monitoring tools you can self-host — alternatives to Statuspage.io, ranked by GitHub stars.
 
 <!-- opensource:start -->
-*Sorted by GitHub stars — last updated 2026-11-01.*
+*Sorted by GitHub stars — last updated 2026-11-02.*
 
-* `⭐ 93.1k` [Uptime-Kuma](https://github.com/louislam/uptime-kuma) - A self-hosted monitoring tool like "Uptime Robot".
+* `⭐ 93.2k` [Uptime-Kuma](https://github.com/louislam/uptime-kuma) - A self-hosted monitoring tool like "Uptime Robot".
 * `⭐ 17.2k` [Upptime](https://github.com/upptime/upptime) - monitor and status page powered by GitHub
 * `⭐ 15.3k` [Cachet](https://cachethq.io/) ([source](https://github.com/cachethq/cachet)) - Laravel based status page system for everyone. [3.x coming soon](https://github.com/cachethq/cachet/discussions/4342).
 * `⭐ 12.5k` [Gatus](https://github.com/TwiN/gatus) - Automated service health dashboard
