@@ -12,12 +12,12 @@
   url: https://cachethq.io/
   repo: cachethq/cachet
   description: Laravel based status page system for everyone. [3.x coming soon](https://github.com/cachethq/cachet/discussions/4342).
-  stars: 15262
+  stars: 15261
 - name: Checkmate
   url: https://github.com/bluewave-labs/Checkmate
   repo: bluewave-labs/Checkmate
   description: (previously "BlueWave Uptime") Checkmate is an open-source, self-hosted monitoring tool built with React.js, Node.js, and MongoDB, designed to track server uptime, response times, and incidents in real-time, featuring a modern UI. Additionally, Checkmate supports E-mail, Webhook, Discord and Slack notifications and has a multi-language frontend.
-  stars: 11021
+  stars: 11036
 - name: ClearStatus
   url: https://github.com/weeblrpress/clearstatus
   repo: weeblrpress/clearstatus
@@ -27,7 +27,7 @@
   url: https://github.com/brotandgames/ciao
   repo: brotandgames/ciao
   description: checks HTTP(S) URL endpoints for a HTTP status code (or errors on the lower TCP stack) and sends a notification on status change via E-Mail or Webhooks.
-  stars: 1982
+  stars: 1981
 - name: Corestats
   url: https://github.com/jayfk/statuspage
   repo: jayfk/statuspage
@@ -38,7 +38,7 @@
   url: https://github.com/cstate/cstate
   repo: cstate/cstate
   description: Simple, dev friendly, and free to host (Netlify & GitHub Pages)
-  stars: 2904
+  stars: 2905
 - name: dish
   url: https://github.com/savla-dev/savla-dish
   repo: thevxn/dish
@@ -58,7 +58,7 @@
   url: https://github.com/TwiN/gatus
   repo: TwiN/gatus
   description: Automated service health dashboard
-  stars: 12473
+  stars: 12661
 - name: GitHub Status Page
   url: https://github.com/Bullrich/Status-Page
   repo: Bullrich/Status-Page
@@ -78,12 +78,12 @@
   url: https://github.com/dromara/hertzbeat
   repo: apache/hertzbeat
   description: An open source, real-time monitoring system with agentless, cluster, prometheus-compatible, custom and status page.
-  stars: 7452
+  stars: 7461
 - name: Issue Status
   url: https://github.com/tadhglewis/issue-status
   repo: tadhglewis/issue-status
   description: Simple, modern and flexible status page
-  stars: 430
+  stars: 429
 - name: Kardio
   url: https://github.com/tmobile/kardio
   repo: tmobile/kardio
@@ -100,7 +100,7 @@
   url: https://monitoror.com/
   repo: monitoror/monitoror
   description: monitoring wallboard
-  stars: 4393
+  stars: 4395
 - name: MOSSboard
   url: https://github.com/lanbugs/mossboard
   repo: lanbugs/mossboard
@@ -115,12 +115,12 @@
   url: https://oneuptime.com/product/status-page
   repo: OneUptime/oneuptime
   description: OneUptime public and private status pages
-  stars: 7780
+  stars: 7803
 - name: OpenStatus
   url: https://www.openstatus.dev
   repo: openstatusHQ/openstatus
   description: Opensource uptime monitoring with status pages with hosted service
-  stars: 9242
+  stars: 9254
 - name: Pagetron
   url: https://github.com/agrrh/pagetron
   repo: agrrh/pagetron
@@ -147,7 +147,7 @@
   url: https://github.com/statping-ng/statping-ng
   repo: statping-ng/statping-ng
   description: Actively maintained fork of [statping/statping](https://github.com/statping/statping)
-  stars: 1995
+  stars: 1994
 - name: Statsig's Status Page
   url: https://github.com/statsig-io/statuspage
   repo: statsig-io/statuspage
@@ -207,12 +207,12 @@
   url: https://github.com/bderenzo/tinystatus
   repo: bderenzo/tinystatus
   description: A tiny static status page generator (written in pure shell)
-  stars: 515
+  stars: 516
 - name: Upptime
   url: https://github.com/upptime/upptime
   repo: upptime/upptime
   description: monitor and status page powered by GitHub
-  stars: 17196
+  stars: 17197
 - name: Uptimon
   url: https://github.com/RatherLogical/Uptimon
   repo: RatherLogical/Uptimon
@@ -222,22 +222,22 @@
   url: https://github.com/louislam/uptime-kuma
   repo: louislam/uptime-kuma
   description: A self-hosted monitoring tool like "Uptime Robot".
-  stars: 93175
+  stars: 93401
 - name: Uptimepage
   url: https://uptimepage.dev
   repo: uptimepage/uptimepage
   description: Rust-based self-hosted monitoring and public status pages. Auto-opened incidents and IaC via Terraform, REST API and MCP.
-  stars: 50
+  stars: 54
 - name: Peekaping
   url: https://github.com/0xfurai/peekaping
   repo: 0xfurai/peekaping
   description: A self-hosted uptime monitoring with real-time dashboard, multi-channel notifications, status pages, and analytics.
-  stars: 1210
+  stars: 1217
 - name: Vigil
   url: https://github.com/valeriansaliou/vigil
   repo: valeriansaliou/vigil
   description: Microservices Status Page. Monitors a distributed infrastructure and sends alerts (Slack, SMS, etc.).
-  stars: 1950
+  stars: 1949
 - name: WM Website Status
   url: https://gitlab.com/WEB-Manufaktur/website-status-php-script
   repo: null
@@ -246,27 +246,27 @@
   url: https://github.com/eidam/cf-workers-status-page
   repo: eidam/cf-workers-status-page
   description: Cloudflare Workers (completely on the edge) powered monitoring & status page.
-  stars: 2813
+  stars: 2812
 - name: UptimeFlare
   url: https://github.com/lyc8503/UptimeFlare
   repo: lyc8503/UptimeFlare
   description: Another monitoring & status page completely powered by Cloudflare Workers & Pages.
-  stars: 3920
+  stars: 3929
 - name: Kener
   url: https://kener.ing/
   repo: rajnandan1/kener
   description: A SvelteKit + Node.js status page with incident management.
-  stars: 5236
+  stars: 5239
 - name: YASP
   url: https://yasp.io
   repo: Hostzero-GmbH/yet-another-status-page
   description: Yet Another Status Page based on Next.JS and Payload CMS. SMTP and Twilio integrations. One-click hostable on Vercel.
-  stars: 39
+  stars: 41
 - name: KubeStellar Console
   url: https://github.com/kubestellar/console
   repo: kubestellar/console
   description: Multi-cluster Kubernetes management console with built-in cluster health dashboards; provides real-time status monitoring across cloud and edge Kubernetes deployments.
-  stars: 152
+  stars: 151
 - name: upbeat
   url: https://github.com/Jubstaaa/upbeat
   repo: Jubstaaa/upbeat
