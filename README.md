@@ -193,6 +193,7 @@ SaaS status page and uptime monitoring services, including Atlassian Statuspage 
 * [WebGazer](https://www.webgazer.io) - Uptime monitoring, cron job monitoring and hosted status pages.
 * [whatbroke.today](https://whatbroke.today) - Aggregates status pages from cloud services. Telegram alerts, RSS feed, JSON API.
 * [Xitoring](https://xitoring.com) - Uptime monitoring, Server monitoring, built-in hosted status pages.
+* [ZoneBI](https://zonebi.com/en/?src=gh-awesome-status-pages-en-01) - Uptime, SSL, DNS, domain expiry and email (SPF/DKIM/DMARC) monitoring with hosted status pages. Free plan for 3 domains.
 
 ## Public Status Pages of Major Companies
 
