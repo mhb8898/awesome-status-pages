@@ -132,6 +132,10 @@
   description: null
   stars: 406
   archived: true
+- name: SiteWatcher
+  url: https://github.com/NikKurkov/sitewatcher
+  repo: NikKurkov/sitewatcher
+  description: Self-hosted website monitoring with uptime and response time history, TLS and domain expiry checks, and public status pages.
 - name: StashBoard
   url: http://www.stashboard.org/
   repo: twilio/stashboard
